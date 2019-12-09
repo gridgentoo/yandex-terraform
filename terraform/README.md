@@ -6,8 +6,8 @@
 * Скачайте данный репозиторий с помощью git
 
 ```
-git clone git@github.com:gridgentoo/yandex-terradata.git
-cd yandex-terradata
+git clone git@github.com:gridgentoo/yandex-terraform.git
+cd yandex-terraform
 ```
 
 Переходим в папку `terraform`
