@@ -95,11 +95,11 @@ done
 
 ###  Смаштабируем кластер
 
-Размером кластера управляем переменная `cluster_size`. Изменим ее значения до 6 в файле `terraform.tfvars`
+Размером кластера управляем переменная `cluster_size`. Изменим ее значения до 16 в файле `terraform.tfvars`
 
 ```
 $ cat terraform.tfvars
-cluster_size = 6
+cluster_size = 16
 ```
 Применим изменения.
 
